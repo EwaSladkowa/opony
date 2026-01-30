@@ -1,0 +1,78 @@
+* {
+  margin: 0px;
+  font-family: "Trebuchet MS", "sans-serif";
+}
+.Sekcja1i2 {
+  width: 60%;
+}
+.blokGlowny {
+  display: flex;
+}
+.blokBoczny {
+  background-color: #c5cae9;
+  width: 40%;
+  height: 600px;
+}
+.Sekcja1,
+.Sekcja2 {
+  width: 100%;
+  height: 300px;
+}
+
+.Sekcja1 {
+  background-color: #9fa8da;
+}
+
+.Sekcja2 {
+  background-color: #7986cb;
+}
+
+.blokStopki {
+  background-color: #283593;
+  color: white;
+  padding: 20px;
+}
+
+img {
+  float: left;
+  padding: 20px;
+}
+
+h2 {
+  text-align: center;
+  padding: 15px;
+}
+
+h3 {
+  background-color: #7986cb;
+  color: white;
+  font-size: 140%;
+}
+
+.opona {
+  width: 80%;
+  height: 150px;
+  border-radius: 20px;
+  margin: 30px;
+  text-align: left;
+  border-style: dotted;
+  border-color: #7986cb;
+  background-color: #9fa8da;
+}
+
+h4 {
+  margin: 20px 0px 20px 0px;
+}
+.snow {
+  color: #3c3d41;
+  margin: 20px;
+}
+
+.sun {
+  color: #3c3d41;
+  margin: 20px;
+}
+
+.div{
+    display: flex;
+}
