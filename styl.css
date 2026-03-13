@@ -12,6 +12,8 @@
   background-color: #c5cae9;
   width: 40%;
   height: 600px;
+  overflow: scroll;
+  overflow-x: hidden;
 }
 .Sekcja1,
 .Sekcja2 {
@@ -51,9 +53,9 @@ h3 {
 
 .opona {
   width: 80%;
-  height: 150px;
+  height: 120px;
   border-radius: 20px;
-  margin: 30px;
+  margin: 40px;
   text-align: left;
   border-style: dotted;
   border-color: #7986cb;
@@ -62,17 +64,4 @@ h3 {
 
 h4 {
   margin: 20px 0px 20px 0px;
-}
-.snow {
-  color: #3c3d41;
-  margin: 20px;
-}
-
-.sun {
-  color: #3c3d41;
-  margin: 20px;
-}
-
-.div{
-    display: flex;
 }
